@@ -15,3 +15,13 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Date created
+03/23/22
+
+### Project Title
+GitHub
+### Description
+Created a new branch named "refactoring"
+
+### Files used
+README.md
