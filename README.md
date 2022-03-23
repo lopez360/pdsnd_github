@@ -25,3 +25,11 @@ Created a new branch named "refactoring"
 
 ### Files used
 README.md
+
+### Date created
+03/23/22
+
+### Project Title
+GitHub
+### Description
+This note is to remember to COMMIT to easily identify the actions taken.
