@@ -26,3 +26,14 @@ Adding more comments to the README.md file
 
 ### Files used
 README.md
+
+## Date created
+03/23/22.
+
+### Project Title
+GitHub project
+
+### Description
+Not sure if my previous step got registred. Thus, I adjust README.md just in case.
+a) I created a branch named documentation in my local repository.
+b) I switched to the documentation branch.
