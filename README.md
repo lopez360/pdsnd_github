@@ -62,3 +62,12 @@ GitHub
 
 ### Description
 I added the other 2 branches into Master.
+
+### Date created
+03/24/22
+
+### Project Title
+GitHub
+
+### Description
+Trying to fix .gitignore.
