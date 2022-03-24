@@ -38,9 +38,11 @@ README.md
 
 ### Project Title
 GitHub
+
 ### Description
 This note is to remember to COMMIT to easily identify the actions taken.
 ## Date created
+
 03/23/22.
 
 ### Project Title
@@ -50,3 +52,13 @@ GitHub project
 Not sure if my previous step got registred. Thus, I adjust README.md just in case.
 a) I created a branch named documentation in my local repository.
 b) I switched to the documentation branch.
+
+
+### Date created
+03/23/22
+
+### Project Title
+GitHub
+
+### Description
+I added the other 2 branches into Master.
