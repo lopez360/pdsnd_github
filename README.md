@@ -81,3 +81,11 @@ GitHub
 ### Description
 Added a text file for .gitignore. The goal is to ignores .csv files.
 
+### Date created
+03/25/22
+
+### Project Title
+GitHub
+
+### Description
+Added the 3 .csv files to run the bikeshare project.
