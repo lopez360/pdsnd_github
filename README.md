@@ -71,3 +71,13 @@ GitHub
 
 ### Description
 Trying to fix .gitignore.
+
+### Date created
+03/25/22
+
+### Project Title
+GitHub
+
+### Description
+Added a text file for .gitignore. The goal is to ignores .csv files.
+
