@@ -89,3 +89,12 @@ GitHub
 
 ### Description
 Added the 3 .csv files to run the bikeshare project.
+
+### Date created
+03/25/22
+
+### Project Title
+GitHub
+
+### Description
+Added the 3 .csv in .gitignore
